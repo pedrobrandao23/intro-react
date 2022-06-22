@@ -1,0 +1,20 @@
+.small {
+    height: 33vh;
+}
+
+.medium {
+    height: 66vh;
+}
+
+.light {
+    background-color: #FFDBCA;
+}
+
+.dark {
+    background-color: #D9D9D9;
+}
+
+.box p {
+    margin: 0 auto;
+}
+
