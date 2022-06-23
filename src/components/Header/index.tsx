@@ -11,7 +11,7 @@ function Header() {
     <header>
       <nav>
           <div id="logo">
-            <a href="index.html">
+            <a href="#">
               <img src={Logo} alt="logo da empresa" />
             </a>
           </div>

@@ -1,9 +1,5 @@
-.small {
-    height: 33vh;
-}
-
-.medium {
-    height: 66vh;
+.box {
+    padding: 70px 35px 35px 35px;
 }
 
 .light {

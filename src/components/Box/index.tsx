@@ -1,4 +1,3 @@
-import { JsxClosingElement } from "typescript";
 import "./styles.css";
 
 interface BoxProps {

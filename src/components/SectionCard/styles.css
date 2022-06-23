@@ -1,0 +1,24 @@
+.first-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 8px;   
+    border: 0 none;
+    outline: 0;
+    margin-bottom: 30px;
+}
+
+.section-card a {
+    background-color: #00AFAD;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: #FAFAFA;
+    padding: 12px 0;
+    border-radius: 0 0 8px 8px;
+}
