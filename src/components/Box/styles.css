@@ -1,16 +1,8 @@
-.box {
-    padding: 70px 35px 35px 35px;
-}
-
 .light {
     background-color: #FFDBCA;
 }
 
 .dark {
     background-color: #D9D9D9;
-}
-
-.box p {
-    margin: 0 auto;
 }
 
