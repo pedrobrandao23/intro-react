@@ -2,10 +2,10 @@ import Header from "../../components/Header";
 import Box from "../../components/Box";
 import Menu from "../../components/Menu"
 import Footer from "../../components/Footer";
+import SectionCard from "../../components/SectionCard";
+import ProductCard from "../../components/ProductCard";
 
 import banner from "../../assets/pictures/banner-carousel.png"
-
-import SectionCard from "../../components/SectionCard";
 import img1 from "../../assets/pictures/section1.png"
 import img2 from "../../assets/pictures/section2.png"
 import img3 from "../../assets/pictures/section3.png"
@@ -14,8 +14,6 @@ import img5 from "../../assets/pictures/section5.png"
 import img6 from "../../assets/pictures/section6.png"
 import img7 from "../../assets/pictures/section7.png"
 import img8 from "../../assets/pictures/section8.png"
-
-import ProductCard from "../../components/ProductCard";
 import product1 from "../../assets/pictures/products/product-id-1.png";
 import product2 from "../../assets/pictures/products/product-id-2.png";
 import product3 from "../../assets/pictures/products/product-id-3.png";
