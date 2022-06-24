@@ -5,22 +5,8 @@ import Footer from "../../components/Footer";
 import SectionCard from "../../components/SectionCard";
 import ProductCard from "../../components/ProductCard";
 
-import banner from "../../assets/pictures/banner-carousel.png"
-import img1 from "../../assets/pictures/section1.png"
-import img2 from "../../assets/pictures/section2.png"
-import img3 from "../../assets/pictures/section3.png"
-import img4 from "../../assets/pictures/section4.png"
-import img5 from "../../assets/pictures/section5.png"
-import img6 from "../../assets/pictures/section6.png"
-import img7 from "../../assets/pictures/section7.png"
-import img8 from "../../assets/pictures/section8.png"
-import product1 from "../../assets/pictures/products/product-id-1.png";
-import product2 from "../../assets/pictures/products/product-id-2.png";
-import product3 from "../../assets/pictures/products/product-id-3.png";
-import product4 from "../../assets/pictures/products/product-id-4.png";
-import product5 from "../../assets/pictures/products/product-id-5.png";
-import product6 from "../../assets/pictures/products/product-id-6.png";
-import product7 from "../../assets/pictures/products/product-id-7.png";
+
+import { banner, img1, img2, img3, img4, img5, img6, img7, img8, product1, product2, product3, product4, product5, product6, product7 } from "../../assets/pictures";
 
 import "./styles.css"
 
